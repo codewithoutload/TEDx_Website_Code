@@ -3,8 +3,7 @@
 ## Introduction
 Welcome to the official repository for the website of TEDxIITGuwahati. This project aims to create an informative and engaging website for the TEDxIITGuwahati event, with the theme "Silent Letter." This README file provides an overview of the project and specific details about the location page.
 
-## Contributors
-- Codewithoutload
+
 
 ## Project Structure
 The project is organized into several components, each focusing on a specific aspect of the website. The main components include:
